@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Alberti Cipher",
+"dataUrl": "alberti.data.unityweb",
+"asmCodeUrl": "alberti.asm.code.unityweb",
+"asmMemoryUrl": "alberti.asm.memory.unityweb",
+"asmFrameworkUrl": "alberti.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
